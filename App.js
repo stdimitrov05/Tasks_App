@@ -10,6 +10,7 @@ import {
   ScrollView,
   Button,
   Linking,
+  Platform
 } from "react-native";
 import Task from "./components/Taks";
 
